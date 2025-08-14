@@ -6,7 +6,8 @@ Designed to support [circuit-to-svg](https://github.com/tscircuit/circuit-to-svg
 
 ## TODOs
 
-- [ ] Add bun-match-svg
+- [ ] Bootstrap repo
+- [ ] Add PNG matcher using looks-same (i.e. `.toMatchPngSnapshot(...)` matcher
 - [ ] Import ~10 examples from circuit-to-svg
 - [ ] Support required svg primitives and transformations
 - [ ] Import example from simple-3d-svg (requires parsing embedded pngs)
